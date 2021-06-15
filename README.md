@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @krishnasoftcoder
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+krishnasoftcoder/krishnasoftcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+can you teach me
+i have some questions and ideas of apps that has not been made till now
+
